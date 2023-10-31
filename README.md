@@ -3,6 +3,7 @@
    - CSS, and
    - JAVASCRIPT
 with Amazing libraries:
-   - Shery JS ✔,
-   - GSAP,
-   - THREE JS.
+   - Shery JS  ✔,
+   - GSAP ✔,
+   - THREE JS ✔.
+   - Scroll-Trigger ✔
